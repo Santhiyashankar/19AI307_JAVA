@@ -23,8 +23,8 @@ To create  a Java program to perform the inheritance concept for employee detail
  ```
 
 Program to implement a Inheritance using Java
-Developed by: SHABREENA VINCENT
-RegisterNumber: 212222230141
+Developed by: Santhiya S
+RegisterNumber: 212223220098
 ```
 
 ## Sourcecode.java:
