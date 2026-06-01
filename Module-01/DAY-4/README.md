@@ -24,8 +24,8 @@ b)	Call the 'calculateArea' method on the 'rectangle' object
  ```
 /*
 Program to implement a User Defined Method using Java
-Developed by: SAILESHKUMAR A
-RegisterNumber: 212222230126
+Developed by: Santhiya S
+RegisterNumber: 212223220098
 */
 ```
 
