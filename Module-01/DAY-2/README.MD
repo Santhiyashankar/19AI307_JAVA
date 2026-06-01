@@ -15,9 +15,6 @@ To write a Java program to get values of variables 'a' and 'b' and then check if
 a)	If the condition is true, print "true" using the 'print' method of 'System.out'
 b)	If the condition is false, print "false" using the 'print' method of 'System.out'
 9.	End
-
-
-
 ## PROGRAM:
  ```
 /*
@@ -26,7 +23,6 @@ Developed by: Santhiya S
 RegisterNumber: 212223220098
 */
 ```
-
 ## Sourcecode.java:
 ```
 import java.util.Scanner;
