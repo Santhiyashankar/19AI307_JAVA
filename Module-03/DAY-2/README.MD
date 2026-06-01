@@ -18,8 +18,8 @@ To develop a java program use replace() method replaces the given String from th
  ```
 
 Program to implement a String Buffer using Java
-Developed by: SHABREENA VINCENT
-RegisterNumber: 212222230141
+Developed by: Santhiya S
+RegisterNumber: 212223220098
 ```
 
 ## Sourcecode.java:
